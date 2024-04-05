@@ -3,6 +3,8 @@
 STREAM is the de facto industry standard benchmark
 for measuring sustained memory bandwidth.
 
+This repository add a malloc version of the stream bench.
+
 Documentation for STREAM is on the web at:
    http://www.cs.virginia.edu/stream/ref.html
 
